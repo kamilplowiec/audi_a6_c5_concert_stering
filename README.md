@@ -8,10 +8,10 @@ http://kovo-blog.blogspot.com/2013/10/remote-control-audi-radio.html
 Arduino jest podłączone za pomoca pinu 2 do radia Concert I pod pin REM-c.
 Obsługiwane funkcje za pomocą pinów:
 
-Pin 8 - RIGHT
-Pin 9 - UP
-Pin 10 - DOWN
-Pin 11 - LEFT
-Pin 12 - VOL+
-Pin 13 - VOL-
-Pin 7 - MODE
+- Pin 8 - RIGHT
+- Pin 9 - UP
+- Pin 10 - DOWN
+- Pin 11 - LEFT
+- Pin 12 - VOL+
+- Pin 13 - VOL-
+- Pin 7 - MODE
