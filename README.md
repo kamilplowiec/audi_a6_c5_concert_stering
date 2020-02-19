@@ -15,3 +15,6 @@ Obsługiwane funkcje za pomocą pinów:
 - Pin 12 - VOL+
 - Pin 13 - VOL-
 - Pin 7 - MODE
+
+Pin 12 i 13 (VOL+ i VOL-) dostosowane do potencjometru.
+Możliwa ciągła zmiana głośności przez trzymanie przycisku.
